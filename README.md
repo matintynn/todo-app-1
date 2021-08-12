@@ -10,5 +10,8 @@ Manipulating the DOM with events to add and remove the DOM elements
 * CSS
 * JavaScript
 
+### Learned:
+* DOM manipulation
+
 ### Live link:
 [Todo App](https://todo-app.salanlee.repl.co/)
