@@ -5,9 +5,8 @@
 ### Description:
 Manipulating the DOM with events to add and remove the DOM elements
 
-### Tool:
-* HTML
-* CSS
+### Stack:
+* HTML/CSS
 * JavaScript
 
 ### Learned:
